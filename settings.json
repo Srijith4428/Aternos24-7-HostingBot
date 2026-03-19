@@ -6,9 +6,12 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
+    "ip": "IP: jithpathsofglory.aternos.me:36020
+Port: 36020
+Dyn IP
+: northmelanesiancuckooshrike.aternos.host:36020",
     "port": 62213,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
